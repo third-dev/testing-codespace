@@ -1,0 +1,22 @@
+{
+  "name": "testing-codespace",
+  "version": "1.0.0",
+  "description": "- One - Twoxo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/third-dev/testing-codespace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/third-dev/testing-codespace/issues"
+  },
+  "homepage": "https://github.com/third-dev/testing-codespace#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
